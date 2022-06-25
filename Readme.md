@@ -1,8 +1,4 @@
-## Olá me chamo Matheus Schwertz!
-Welcome to my profile! I'm Matheus Schwertz.
-🌱 I’m currently learning React Native, Java and Python
-💻 Studying Computer Science at IMED
-🌐 Passo Fundo, Rio Grande do Sul, Brazil
+## Welcome to my profile! I'm Matheus Schwertz
 
 <div align="center">
   <a href="https://github.com/matheusschwertz">

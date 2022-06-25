@@ -1,4 +1,4 @@
-## Olá eu me chamo Matheus Schwertz graduando do curso de Ciências da Computação!
+## Olá me chamo Matheus Schwertz!
 <div align="center">
   <a href="https://github.com/matheusschwertz">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusschwertz&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
